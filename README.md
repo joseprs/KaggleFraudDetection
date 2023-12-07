@@ -1,1 +1,1 @@
-# KaggleFraudDetection
+# Kaggle Competition - Fraud Binary Classification
